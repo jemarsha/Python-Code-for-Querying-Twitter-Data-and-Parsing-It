@@ -3,7 +3,7 @@
 from slistener import SListener
 import time, tweepy, sys
 
-
+## auth. 
 
 ## Eventually you'll need to use OAuth. Here's the code for it here.
 ## You can learn more about OAuth here: https://dev.twitter.com/docs/auth/oauth
